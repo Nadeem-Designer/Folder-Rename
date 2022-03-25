@@ -10,5 +10,5 @@ $(function(){
 	// $("#sample-div1").after("<p>Para 4</p>");
 
 	// insertAfter() method
-	$("<p>Para 4</p>").insertAfter("#sample-div1");
+	$("<p>Para 4</p>").insertAfter("#sample");
 });
